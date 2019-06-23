@@ -1,3 +1,3 @@
-**Here is the list of some of my Data Analysis and Prediction work.**
+**PROJECTS on Data Analysis and Machine Learning.**
 
 
