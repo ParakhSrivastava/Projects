@@ -1,6 +1,10 @@
 **Skills Used-** Python, ML algorithm- RandomForest, Exploratory Data Analysis- Jointplot, Distplot, Heatmap, etc.
 
-**Description** -> Predicting House price based on different features of the house.<br>
+**Description** -> Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.<br>
 
 Please upvote the kernel on Kaggle if you like/find it helpful...<br>
 https://www.kaggle.com/parakhsrivastava/housing-prediction-prices-beginner
