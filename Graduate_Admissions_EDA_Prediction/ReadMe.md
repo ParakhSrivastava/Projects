@@ -1,4 +1,4 @@
-**Skills Used**- Python, ML algorithms(SVM, Logistic Regression), Exploratory Data Analysis, Tableau Visualizations.
+**Skills Used**- Python, ML algorithms(Linear Regression), Exploratory Data Analysis, Tableau Visualizations.
 
 **Accuracy ->** 82%
 
