@@ -1,3 +1,16 @@
-**PROJECTS on Data Analysis and Machine Learning.**
+# Projects 
 
+### Skills Used 
+* Python
+* Exploratory Data Analysis
+* Data Visualization
+* Machine Learning
+* Deep Learning
+* Tableau
+* Excel
 
+### Frameworks
+* TensorFlow
+* Scikit-Learn
+* Pandas
+* Jupyter Notebooks
