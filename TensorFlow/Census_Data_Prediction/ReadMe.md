@@ -1,3 +1,9 @@
+# TensorFlow Beginner Project
+ 
+**Predicting a census data is a REGRESSION problem.**
+
+## Data Description
+
 <table>
 <thead>
 <tr>
@@ -84,3 +90,6 @@
 </tr>
 </tbody>
 </table>
+
+### ACCURACY
+**84%**
