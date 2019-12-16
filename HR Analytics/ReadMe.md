@@ -1,6 +1,4 @@
-> Ranks 436th (present), Top 5%
-
-https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/lb?page=2
+[Ranks 436th (present), Top 5%](https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/lb?page=2)
 
 **Skills Used**- Python, ML algorithms(XGBoost), Exploratory Data Analysis.
 
